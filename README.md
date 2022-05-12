@@ -1,3 +1,17 @@
+# Hello and welcome. 👋
+
+### I am a software developer currently out of San Diego.
+
+### I have affinity for problem solving and continuous learning, and am interested in the power of technology to improve human life. 🌱
+
+### Have a look around. All pinned repos below are 100% my work, many that I'm quite proud of. 🚀
+
+### Some of my current interests are ... 📚
+- Functional programming
+- Contributing to open source
+- Learning how to leverage serverless technologies with AWS
+- Software architectural patterns
+
 <!--
 
 ### Hi there 👋
