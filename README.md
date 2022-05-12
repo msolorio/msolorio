@@ -6,10 +6,10 @@
 
 ### Have a look around. All pinned repos below are 100% my work, many that I'm quite proud of. 🚀
 
-### Some of my current interests are ... 📚
+### Currently learning about ... 📚
 - Functional programming
 - Contributing to open source
-- Learning how to leverage serverless technologies with AWS
+- Leveraging serverless technologies with AWS
 - Software architectural patterns
 
 <!--
