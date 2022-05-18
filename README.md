@@ -42,9 +42,14 @@
 ---
 
 ## Currently learning about ... 📚
-- ### Functional programming and recursion
-- ### Serverless technologies with AWS
-- ### Contributing to open source
+- ### Functional programming and recursion with the SML programming language.
+- ### Cloud computing and serverless architectural solutions with AWS.
+- ### Contributing to open source.
+
+---
+
+## Contact Me
+### [msolorio.wd@gmail.com](msolorio.wd@gmail.com) | [LinkedIn](https://www.linkedin.com/in/michaelsolorio/)
 
 <!--
 
