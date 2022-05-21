@@ -44,7 +44,6 @@
 ## Currently learning about ... 📚
 - ### Functional programming and recursion with the SML programming language.
 - ### Cloud computing and serverless architectural solutions with AWS.
-- ### Contributing to open source.
 
 ---
 
