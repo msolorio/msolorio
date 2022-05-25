@@ -1,6 +1,6 @@
 # Hello and welcome. 👋
 
-### I'm a software developer, mentor, surfer, and science and tech enthusiast.
+### I'm a software developer, mentor, and science and tech enthusiast.
 
  <!-- and life long learner interested in the power of technology to improve human life. 🌱 -->
 
