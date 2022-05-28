@@ -43,7 +43,7 @@
 
 ## Currently learning about ... 📚
 - ### Functional programming and recursion with the SML programming language.
-- ### Systems design principles.
+- ### Systems design fundamentals.
 
 ---
 
