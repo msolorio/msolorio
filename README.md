@@ -38,10 +38,8 @@
   <img alt="UNIX" src="https://img.shields.io/badge/-Unix-05122A?style=flat&logo=gnometerminal" height="25" />
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira&logoColor=4f9bff" height="25" />
 </p>
-<!-- 
----
 
-## Currently learning about ... 📚
+<!-- ## Currently learning about ... 📚
 - ### Functional programming and recursion with the SML programming language.
 - ### Systems design fundamentals. -->
 
