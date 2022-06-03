@@ -40,9 +40,10 @@
 </p>
 
 
-I am also always learning, be it a language, concept, or technology.
 
-If you'd like to know more, feel free to reach out!
+### I am also always learning, be it a language, concept, or technology.
+
+### If you'd like to know more, feel free to reach out!
 
 ---
 
