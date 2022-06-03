@@ -39,9 +39,10 @@
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira&logoColor=4f9bff" height="25" />
 </p>
 
-## Currently learning about ... 📚
-- ### Functional programming and recursion with the SML programming language.
-- ### Systems design fundamentals.
+
+I am also always learning, be it a language, concept, or technology.
+
+If you'd like to know more, feel free to reach out!
 
 ---
 
