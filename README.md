@@ -4,7 +4,7 @@
 
  <!-- and life long learner interested in the power of technology to improve human life. 🌱 -->
 
-### Have a look around. Pinned repos are 100% my work, many that I'm quite proud of. 🚀
+### Have a look around. Pinned repos are 100% my work, many that I'm quite proud of.
 
 ---
 
@@ -39,9 +39,7 @@
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira&logoColor=4f9bff" height="25" />
 </p>
 
-
-
-### I am always learning, be it a language, concept, or technology.
+### When not working you can usually find me honing my craft and learning something new.
 
 ### If you'd like to know more, feel free to reach out!
 
