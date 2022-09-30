@@ -8,6 +8,7 @@
 
 ---
 
+<!--
 ## Technologies
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" height="25"/>
@@ -38,7 +39,7 @@
   <img alt="UNIX" src="https://img.shields.io/badge/-Unix-05122A?style=flat&logo=gnometerminal" height="25" />
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira&logoColor=4f9bff" height="25" />
 </p>
-
+-->
 ### When not working you can usually find me honing my craft and learning something new.
 
 ### If you'd like to know more, feel free to reach out!
