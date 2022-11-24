@@ -47,7 +47,7 @@
 ---
 
 ## Contact Me
-### [msolorio.wd@gmail.com](mailto:msolorio.wd@gmail.com) | [LinkedIn](https://www.linkedin.com/in/michaelsolorio/)
+[LinkedIn](https://www.linkedin.com/in/michaelsolorio/)
 
 <!--
 
