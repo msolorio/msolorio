@@ -1,6 +1,6 @@
 # Hello and welcome. 👋
 
-### I'm a software developer, mentor, and science and tech enthusiast.
+### I'm a software developer and mentor with an interest in functional patterns.
 
 <!-- 
 ### Have a look around. Pinned repos are 100% my work, many that I'm quite proud of. -->
