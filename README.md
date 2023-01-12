@@ -46,7 +46,7 @@
 ---
 
 ## Contact Me
-[LinkedIn](https://www.linkedin.com/in/michaelsolorio/)
+### [LinkedIn](https://www.linkedin.com/in/michaelsolorio/)
 
 <!--
 
