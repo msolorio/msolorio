@@ -43,9 +43,6 @@
 
 ### If you'd like to know more, feel free to reach out.
 
----
-
-## Contact Me
 ### [LinkedIn](https://www.linkedin.com/in/michaelsolorio/)
 
 <!--
