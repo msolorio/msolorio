@@ -1,6 +1,6 @@
 # Hello and welcome. 👋
 
-<!-- ### I'm a software developer. -->
+### I'm a software developer currently interested in software design idioms and patterns.
 
 <!-- 
 ### Have a look around. Pinned repos are 100% my work, many that I'm quite proud of. -->
