@@ -1,6 +1,6 @@
 # Hello and welcome. 👋
 
-### I'm a software developer with an interest in functional patterns.
+<!-- ### I'm a software developer. -->
 
 <!-- 
 ### Have a look around. Pinned repos are 100% my work, many that I'm quite proud of. -->
