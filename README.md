@@ -1,6 +1,6 @@
 # Hello and welcome. 👋
 
-### I'm a software developer currently interested in software design idioms and patterns.
+### Senior full stack software engineer experienced in building stateful user interfaces, backend APIs, and automated delivery pipelines. Passionate about optimizing impact and continuous learning.
 
 <!-- 
 ### Have a look around. Pinned repos are 100% my work, many that I'm quite proud of. -->
