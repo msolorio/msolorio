@@ -1,8 +1,6 @@
 # Hello and welcome. 👋
 
-### I'm a full stack software engineer with over six years of experience leading projects from initial scoping to completion,
-
-### I have experience building stateful user interfaces, backend APIs, and automated delivery pipelines. 
+### I'm a full stack software engineer with over six years of experience leading projects from initial scoping to completion, building stateful user interfaces, backend APIs, and automated delivery pipelines. 
 
 ### Focused on optimizing developer impact and continuous learning.
 
