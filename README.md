@@ -41,7 +41,7 @@
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira&logoColor=4f9bff" height="25" />
 </p>
 -->
-### When not working you can usually find me learning something new.
+<!-- ### When not working you can usually find me learning something new. -->
 
 ### If you'd like to know more, feel free to reach out.
 
