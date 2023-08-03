@@ -1,8 +1,8 @@
 # Hello and welcome. 👋
 
-### I'm a full stack software engineer with over six years of experience leading projects from initial scoping to completion, building stateful user interfaces, backend APIs, and automated delivery pipelines. 
+I'm a full stack software engineer with over six years of experience leading projects from initial scoping to completion, building stateful user interfaces, backend APIs, and automated delivery pipelines. 
 
-### Focused on optimizing developer impact and continuous learning.
+Focused on optimizing developer impact and continuous learning.
 
 <!-- 
 ### Have a look around. Pinned repos are 100% my work, many that I'm quite proud of. -->
@@ -43,9 +43,9 @@
 -->
 <!-- ### When not working you can usually find me learning something new. -->
 
-### If you'd like to know more, feel free to reach out.
+If you'd like to know more, feel free to reach out.
 
-### [LinkedIn](https://www.linkedin.com/in/michaelsolorio/)
+[LinkedIn](https://www.linkedin.com/in/michaelsolorio/)
 
 <!--
 
