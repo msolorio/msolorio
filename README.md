@@ -44,9 +44,11 @@ Focused on optimizing developer impact and continuous learning.
 -->
 <!-- ### When not working you can usually find me learning something new. -->
 
+<!--
 If you'd like to know more, feel free to reach out.
 
 [LinkedIn](https://www.linkedin.com/in/michaelsolorio/)
+-->
 
 <!--
 
