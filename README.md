@@ -8,8 +8,9 @@ Focused on optimizing developer impact and continuous learning.
 <!-- 
 ### Have a look around. Pinned repos are 100% my work, many that I'm quite proud of. -->
 
+<!--
 ---
-
+-->
 <!--
 ## Technologies
 <p>
